@@ -1,6 +1,6 @@
 # Introduction
 
-This is a better way to collect some android repositories on github for me, or for you, a iOS developer.
+This is a better way to collect some android repositories on github for an iOS developer.
 
 # References
 
