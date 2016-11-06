@@ -1,9 +1,14 @@
-#### Introduction
-----
+# Introduction
 
-This is a bette way to show some iOS projects from GitHub for me.
+This is a better way to collect some android repositories on github for me, or for you, a iOS developer.
 
-##### [Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)
-----
+# References
 
-A collaborative list of 518 open-source iOS, watchOS and tvOS apps.
+- [Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)
+
+  A collaborative list of open-source iOS, watchOS and tvOS apps.
+
+- [trip-to-iOS)](https://github.com/Aufree/trip-to-iOS)
+
+  A curated list of delightful iOS resources.
+
